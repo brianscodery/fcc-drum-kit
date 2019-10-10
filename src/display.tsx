@@ -28,7 +28,7 @@ const Display: React.SFC<DisplayProps> = (props) => {
 
   return (
     <div style={displayStyle}>
-      <div>Drum Machine</div>
+      <div>Drum Kit</div>
     <div
     id="display"
       >
